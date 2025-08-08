@@ -45,7 +45,7 @@ It suggests movies similar to the one you like based on content-based filtering.
 ## 🛠 Tech Stack
 
 - Python
-- Flask (if used)
+- Flask 
 - scikit-learn
 - pandas
 - pickle
